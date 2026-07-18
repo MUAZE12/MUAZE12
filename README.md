@@ -1,14 +1,22 @@
-<h1 align="center">Hi, I'm Mustapha Baroudi 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:39d0c4&height=180&section=header&text=Mustapha%20Baroudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20%C3%97%20Business%20%7C%20Industrial%20Engineering&descSize=16&descAlignY=56" alt="banner" width="100%">
+</p>
 
 <p align="center">
   <b>Industrial Engineering Student · Business & Data Management @ ESITH Casablanca</b><br>
+  <b>ESITH–ENSAIT double degree</b> (double diplomation) · France 🇫🇷 &nbsp;|&nbsp; Casablanca, Morocco 🇲🇦<br>
   Bridging <b>data and business</b> — supply chain · data analytics · marketing · full-stack development
 </p>
 
 <p align="center">
+  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-5b8cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/MUAZE12/mustapha-baroudi-portfolio"><img src="https://img.shields.io/badge/Portfolio-CV%20%26%20Certificates-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/MUAZE12/mustapha-baroudi-portfolio"><img src="https://img.shields.io/badge/CV%20%26%20Certificates-Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MUAZE12&label=Profile%20views&color=5b8cff&style=flat" alt="views">
 </p>
 
 ---
@@ -16,6 +24,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 State Engineering student in **Industrial Engineering — Business & Data Management** at **ESITH Casablanca** (2024–2027)
+- 🇫🇷 Selected for the **ESITH–ENSAIT double-degree program** (double diplomation) — *École Nationale Supérieure des Arts et Industries Textiles*, France
 - 📊 I turn raw data into decisions: **Python · SQL · Power BI · Excel** — and translate those into business impact
 - 🏭 Hands-on in industry: internships at **Groupe ONCF** (planning), **OCP Group** (production), and **AdmitEase** (digital marketing)
 - 🏆 **ESITH Hackathon winner** · **4th place @ CITx.c** (5,000 MAD award)
@@ -46,6 +55,15 @@
 
 ---
 
+### 🌱 Currently Learning
+
+- 🤖 **Machine Learning** applied to industrial & marketing problems (supervised / unsupervised)
+- 📈 Advanced **Power BI** modeling (DAX, data storytelling) and **time-series** forecasting in Python
+- ⚙️ Deepening **supply-chain optimization** and **Lean Six Sigma** practice on real cases
+- 🌐 Preparing for the **ENSAIT double degree** — textile & industrial engineering in France
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -68,8 +86,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&theme=default&hide_border=true" alt="top langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUAZE12&theme=tokyonight&hide_border=true" alt="streak" height="165">
 </p>
 
 ---
