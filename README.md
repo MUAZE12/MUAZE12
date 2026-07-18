@@ -24,7 +24,7 @@
 ### 🧑‍💻 About me
 
 - 🎓 State Engineering student in **Industrial Engineering — Business & Data Management** at **ESITH Casablanca** (2024–2027)
-- 🇫🇷 Selected for the **ESITH–ENSAIT double-degree program** (double diplomation) — *École Nationale Supérieure des Arts et Industries Textiles*, France
+- 🇫🇷 **Admitted** to the **ESITH–ENSAIT double degree** (double diplomation) — *École Nationale Supérieure des Arts et Industries Textiles*, Roubaix, France — incoming
 - 📊 I turn raw data into decisions: **Python · SQL · Power BI · Excel** — and translate those into business impact
 - 🏭 Hands-on in industry: internships at **Groupe ONCF** (planning), **OCP Group** (production), and **AdmitEase** (digital marketing)
 - 🏆 **ESITH Hackathon winner** · **4th place @ CITx.c** (5,000 MAD award)
