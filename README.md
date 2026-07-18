@@ -1,99 +1,104 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:39d0c4&height=180&section=header&text=Mustapha%20Baroudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20%C3%97%20Business%20%7C%20Industrial%20Engineering&descSize=16&descAlignY=56" alt="banner" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Mustapha Baroudi — Industrial Engineer · Data × Supply Chain" src="./assets/header-dark.svg" width="100%">
+</picture>
 
 <p align="center">
-  <b>Industrial Engineering Student · Business & Data Management @ ESITH Casablanca</b><br>
-  <b>ESITH–ENSAIT double degree</b> (double diplomation) · France 🇫🇷 &nbsp;|&nbsp; Casablanca, Morocco 🇲🇦<br>
-  Bridging <b>data and business</b> — supply chain · data analytics · marketing · full-stack development
-</p>
-
-<p align="center">
-  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-5b8cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/MUAZE12/mustapha-baroudi-portfolio"><img src="https://img.shields.io/badge/CV%20%26%20Certificates-Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MUAZE12&label=Profile%20views&color=5b8cff&style=flat" alt="views">
+  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-muaze12.github.io-e6a23c?style=flat-square&labelColor=11161f" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=11161f" alt="LinkedIn"></a>
+  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-e05a3c?style=flat-square&logo=gmail&logoColor=white&labelColor=11161f" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=MUAZE12&label=Profile%20views&color=e6a23c&style=flat-square&labelColor=11161f" alt="views">
 </p>
 
 ---
 
-### 🧑‍💻 About me
+### `whoami`
 
-- 🎓 State Engineering student in **Industrial Engineering — Business & Data Management** at **ESITH Casablanca** (2024–2027)
-- 🇫🇷 **Admitted** to the **ESITH–ENSAIT double degree** (double diplomation) — *École Nationale Supérieure des Arts et Industries Textiles*, Roubaix, France — incoming
-- 📊 I turn raw data into decisions: **Python · SQL · Power BI · Excel** — and translate those into business impact
-- 🏭 Hands-on in industry: internships at **Groupe ONCF** (planning), **OCP Group** (production), and **AdmitEase** (digital marketing)
-- 🏆 **ESITH Hackathon winner** · **4th place @ CITx.c** (5,000 MAD award)
-- 🌍 Multilingual: **Arabic · Berber (native)** · **English (B2)** · **French** · basics of German & Spanish
-- 🤝 Active in **Junior Entreprise, MUN, The Great Debaters, Enactus** — leadership, public speaking, event management
+I'm an **industrial-engineering student** working at the seam of **industry, data, and business** — the person who understands the factory floor **and** can model it **and** can ship the tool. Currently at **ESITH Casablanca** (Business & Data Management), heading to **ENSAIT, France** for a double degree in textile & industrial engineering.
 
----
+> **What I do →** I build **AI & data systems for operations and supply chain** — from thermal and forecasting models to full-stack industrial tools that actually run in production.
 
-### 🛠️ Tech & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_/_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ERP%2FMM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Domains:** Supply Chain · Six Sigma (Green Belt) · Lean/DMAIC · Data Analytics · Marketing Strategy · Project Management · UX
+- 🏭 Interned at **Groupe ONCF**, **OCP Group** & **AdmitEase** · 🏆 **ESITH Hackathon winner** · 4th @ CITx.c
+- 🎓 **ESITH → ENSAIT** double degree · 🌍 Arabic · English (B2) · French · +2
+- 🧠 Turning **breadth into a spike**: data science × supply-chain optimization for the textile & retail industry
 
 ---
 
-### 🌱 Currently Learning
+### 🚀 Featured Work
 
-- 🤖 **Machine Learning** applied to industrial & marketing problems (supervised / unsupervised)
-- 📈 Advanced **Power BI** modeling (DAX, data storytelling) and **time-series** forecasting in Python
-- ⚙️ Deepening **supply-chain optimization** and **Lean Six Sigma** practice on real cases
-- 🌐 Preparing for the **ENSAIT double degree** — textile & industrial engineering in France
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[⚙️ Smart Maint — GMAO / CMMS](https://github.com/MUAZE12/smartmaint-lcprod)**
+
+Full-stack maintenance platform for a Moroccan edible-oil plant. Real-time sync across **27 Postgres tables**, offline **French/Arabic voice dictation** (in-browser Whisper), a **RAG** knowledge base, and an Arabic **RTL kiosk UI** with a Windows auto-updater. **107 user stories · 16 sprints.**
+
+`Next.js` `React` `TypeScript` `Supabase` `Whisper` `pgvector`
+
+</td>
+<td width="50%" valign="top">
+
+**[📦 SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi)**
+
+Inventory-management app for Moroccan SMBs with real-time tracking, interactive **demand forecasting**, and a modern glassmorphism UI.
+
+`JavaScript` `Bootstrap 5` `Chart.js`
+
+<br>
+
+**[🌐 Portfolio & Certificates](https://github.com/MUAZE12/mustapha-baroudi-portfolio)**
+
+CV (EN/FR), 60+ certificates, and my full professional profile — plus the [live site](https://muaze12.github.io/).
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Stack
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[Smart Maint (GMAO/CMMS)](https://github.com/MUAZE12/smartmaint-lcprod)** | Full-stack maintenance platform for a Moroccan edible-oil plant — real-time sync (27 Postgres tables), offline FR/AR voice dictation, RAG knowledge base, Arabic RTL kiosk UI | Next.js · React · Supabase · Whisper · pgvector · Claude |
-| **[SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi)** | Inventory-management app for Moroccan SMBs with real-time tracking & demand forecasting | JS ES6+ · Bootstrap 5 · Chart.js |
-| **Nike Global Supply Chain Analysis** | 10-page strategic teardown of Nike's end-to-end supply chain (sourcing, Lean, logistics, ML forecasting) | Supply Chain · Strategy |
-| **Industrial Flash Dryer Thermal Analysis** | Thermal & mass-balance simulation of an OCP phosphate flash-drying unit for energy optimization | Python · Optimization |
+**Data & Analytics**
+&nbsp;![Python](https://img.shields.io/badge/-Python-e6a23c?style=flat-square&logo=python&logoColor=11161f&labelColor=1b2230)
+![SQL](https://img.shields.io/badge/-SQL-9aa6b8?style=flat-square&logo=postgresql&logoColor=white&labelColor=1b2230)
+![pandas](https://img.shields.io/badge/-pandas-9aa6b8?style=flat-square&logo=pandas&logoColor=white&labelColor=1b2230)
+![Power BI](https://img.shields.io/badge/-Power_BI-9aa6b8?style=flat-square&logo=powerbi&logoColor=white&labelColor=1b2230)
+![R](https://img.shields.io/badge/-R-9aa6b8?style=flat-square&logo=r&logoColor=white&labelColor=1b2230)
+![Excel](https://img.shields.io/badge/-Excel_/_VBA-9aa6b8?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1b2230)
 
-📁 **Full CV, certificates & profile → [mustapha-baroudi-portfolio](https://github.com/MUAZE12/mustapha-baroudi-portfolio)**
+**Engineering & Dev**
+&nbsp;![Next.js](https://img.shields.io/badge/-Next.js-e6a23c?style=flat-square&logo=nextdotjs&logoColor=11161f&labelColor=1b2230)
+![React](https://img.shields.io/badge/-React-9aa6b8?style=flat-square&logo=react&logoColor=white&labelColor=1b2230)
+![TypeScript](https://img.shields.io/badge/-TypeScript-9aa6b8?style=flat-square&logo=typescript&logoColor=white&labelColor=1b2230)
+![Supabase](https://img.shields.io/badge/-Supabase-9aa6b8?style=flat-square&logo=supabase&logoColor=white&labelColor=1b2230)
+![Arduino](https://img.shields.io/badge/-Arduino-9aa6b8?style=flat-square&logo=arduino&logoColor=white&labelColor=1b2230)
+
+**Industrial & Business**
+&nbsp;![Six Sigma](https://img.shields.io/badge/-Six_Sigma_Green_Belt-e6a23c?style=flat-square&logoColor=11161f&labelColor=1b2230)
+![SAP](https://img.shields.io/badge/-SAP_ERP_/_MM-9aa6b8?style=flat-square&logo=sap&logoColor=white&labelColor=1b2230)
+![Odoo](https://img.shields.io/badge/-Odoo-9aa6b8?style=flat-square&logo=odoo&logoColor=white&labelColor=1b2230)
+![Supply Chain](https://img.shields.io/badge/-Supply_Chain-9aa6b8?style=flat-square&labelColor=1b2230)
+![Lean](https://img.shields.io/badge/-Lean_/_DMAIC-9aa6b8?style=flat-square&labelColor=1b2230)
 
 ---
 
-### 📜 Certifications *(60+ — [browse them all](https://github.com/MUAZE12/mustapha-baroudi-portfolio/tree/main/certificates/individual))*
-
-`Google Data Analytics` · `Google Project Management` · `DataCamp Data Analyst in Python` · `Meta Programming in Python` · `Rutgers Supply Chain Excellence` · `Six Sigma Green Belt` · `Power BI (DAX & Viz)` · `Google UX Design` · `SAP` · `EF SET English B2`
-
----
-
-### 📊 GitHub Stats
+### 📊 By the numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUAZE12&theme=tokyonight&hide_border=true" alt="streak" height="165">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&hide_border=true&count_private=true&title_color=e6a23c&icon_color=e6a23c&text_color=808da0&bg_color=00000000" alt="stats">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=e6a23c&text_color=808da0&bg_color=00000000&langs_count=8" alt="top langs">
 </p>
 
 ---
 
-<p align="center"><i>“Bridging the gap between data and business.”</i></p>
+### 🌱 Currently
+
+Going deep instead of wide — **machine learning**, **operations research / optimization**, and **data engineering**, aimed squarely at supply-chain problems. Preparing for **ENSAIT** and hunting the flagship internship.
+
+<p align="center">
+  <em>“Bridging the gap between data and business.”</em>
+  <br><br>
+  <a href="https://muaze12.github.io/"><b>→ See the full portfolio</b></a>
+</p>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Mustapha Baroudi — Industrial Engineer, Data and Supply Chain">
+  <defs>
+    <linearGradient id="bgL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3f5f8"/>
+      <stop offset="1" stop-color="#e9edf2"/>
+    </linearGradient>
+    <linearGradient id="areaL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b06d12" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#b06d12" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0.82" cy="0.28" r="0.5">
+      <stop offset="0" stop-color="#b06d12" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#b06d12" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="gridL" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#d7dde5" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgL)"/>
+  <rect width="1200" height="300" fill="url(#gridL)"/>
+  <rect width="1200" height="300" fill="url(#glowL)"/>
+
+  <rect x="72" y="96" width="6" height="112" rx="3" fill="#b06d12"/>
+
+  <text x="98" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#0b111a" letter-spacing="-1.5">Mustapha Baroudi</text>
+  <text x="100" y="172" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="500" fill="#586274">Industrial Engineer &#183; Data &#215; Supply Chain</text>
+  <text x="100" y="206" font-family="'SF Mono',ui-monospace,'Cascadia Code',Consolas,monospace" font-size="15" fill="#a1670f">// building AI &amp; data systems for operations &amp; supply chain</text>
+
+  <g font-family="'SF Mono',ui-monospace,Consolas,monospace" font-size="13">
+    <text x="100" y="250" fill="#586274">ESITH</text>
+    <text x="152" y="250" fill="#b06d12">&#8594;</text>
+    <text x="170" y="250" fill="#586274">ENSAIT</text>
+    <text x="238" y="250" fill="#aab3bf">&#183;</text>
+    <text x="252" y="250" fill="#586274">Casablanca</text>
+    <text x="352" y="250" fill="#b06d12">&#8646;</text>
+    <text x="372" y="250" fill="#586274">France</text>
+  </g>
+
+  <g>
+    <path d="M770 250 L820 218 L880 228 L940 182 L1000 158 L1060 122 L1120 84 L1120 250 Z" fill="url(#areaL)"/>
+    <polyline points="770,250 820,218 880,228 940,182 1000,158 1060,122 1120,84"
+      fill="none" stroke="#b06d12" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+      stroke-dasharray="620" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="620" to="0" dur="1.6s" fill="freeze"/>
+    </polyline>
+    <g fill="#f3f5f8" stroke="#b06d12" stroke-width="2.5">
+      <circle cx="820" cy="218" r="4"/><circle cx="880" cy="228" r="4"/><circle cx="940" cy="182" r="4"/>
+      <circle cx="1000" cy="158" r="4"/><circle cx="1060" cy="122" r="4"/>
+    </g>
+    <circle cx="1120" cy="84" r="6" fill="#b06d12">
+      <animate attributeName="r" values="6;9;6" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
