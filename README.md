@@ -47,7 +47,31 @@ mission: build · serve · repay my parents in full
 - 🥇 **Winner** — ESITH Week Hackathon 2025 (ESITH Factory prototype)
 - 🏅 **4th place · 5000 dh** — IEEE ICCITX.0 · CITx.C 2026 Innovation Competition (Paris 🇫🇷)
 - 🎖️ **Finalist** — Green Innovators' Showdown (European Investment Bank)
-- 📜 **60+ certifications** — Six Sigma Green Belt · Google · DataCamp · Digital Manufacturing &amp; Design
+
+## 💼 Experience
+
+| When | Role | Where |
+|---|---|---|
+| 2026 | Planning Intern — digital solution for operational reliability | **Groupe ONCF** (national railway) |
+| 2026 | Sport Leader — retail logistics &amp; inventory flows | **Decathlon** |
+| Aug 2025 | Digital Marketing Intern — data-driven campaigns | **AdmitEase** · Paris (remote) |
+| Jul 2025 | Production Intern — thermal / mass-balance optimization | **OCP Group** |
+| 2024–25 | Career Ambassador &amp; JE Treasurer | **ESITH** |
+
+> At OCP I diagnosed a **6.5% fuel gap** on a flash-dryer while holding a **133 T/h** yield target.
+
+## 📜 Certifications
+
+<p>
+  <a href="https://coursera.org/verify/specialization/TDCKEUN3JCG4"><img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-Kennesaw%20State-2E7D32?style=flat-square&logo=coursera&logoColor=white"/></a>
+  <a href="https://coursera.org/verify/professional-cert/Q9EEEYRN3MZ0"><img src="https://img.shields.io/badge/Project%20Management-Google-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
+  <a href="https://coursera.org/verify/specialization/C5916MKB06BN"><img src="https://img.shields.io/badge/Digital%20Manufacturing%20%26%20Design-Buffalo-005BBB?style=flat-square&logo=coursera&logoColor=white"/></a>
+  <a href="https://coursera.org/verify/specialization/ABA9E1GECDTH"><img src="https://img.shields.io/badge/Excel%20for%20Business-Macquarie-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Data%20Analyst%20in%20Python-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-Google-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+<sub>Badges link to the official credential — click to verify.</sub>
 
 ## 📌 Featured projects
 
