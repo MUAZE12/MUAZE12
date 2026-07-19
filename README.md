@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://muaze12.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F0742B&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%C2%B7+Data+%C3%97+Business;Supply+Chain+%E2%80%A2+Industry+4.0+%E2%80%A2+BI;Turning+data+into+decisions." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F0742B&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%C2%B7+Data+%C3%97+Business;Supply+Chain+%E2%80%A2+Industry+4.0+%E2%80%A2+BI;ESITH+Casablanca+%E2%86%92+ENSAIT+France;Turning+data+into+decisions." alt="typing" />
   </a>
 </p>
 
@@ -10,8 +10,16 @@
   <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-F0742B?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
   <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MUAZE12&color=F0742B&style=for-the-badge&label=VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=MUAZE12&color=F0742B&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-Casablanca%20%F0%9F%87%B2%F0%9F%87%A6-1f2430?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Next%20stop-Roubaix%20%F0%9F%87%AB%F0%9F%87%B7-1f2430?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Industry%204.0%20%C2%B7%20Data-2E7D32?style=flat-square"/>
+</p>
+
+---
 
 ## 🧭 About
 
@@ -26,7 +34,11 @@ off_the_clock: [ basketball, pixel art, shipping side projects ]
 mission: build · serve · repay my parents in full
 ```
 
+---
+
 ## 🛠️ Tech &amp; Tools
+
+**Data &amp; Analytics**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -35,18 +47,30 @@ mission: build · serve · repay my parents in full
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Six%20Sigma-Green%20Belt-2E7D32?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Lean%20%2F%20DMAIC-C67A2E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
-## 🏆 Highlights
+**Industrial &amp; Supply Chain**
 
-- 🥇 **Winner** — ESITH Week Hackathon 2025 (ESITH Factory prototype)
-- 🏅 **4th place · 5000 dh** — IEEE ICCITX.0 · CITx.C 2026 Innovation Competition (Paris 🇫🇷)
-- 🎖️ **Finalist** — Green Innovators' Showdown (European Investment Bank)
+<p>
+  <img src="https://img.shields.io/badge/SAP%20(MM%2FERP)-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Six%20Sigma-Green%20Belt-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lean%20%2F%20DMAIC-C67A2E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Supply%20Chain-1f6f4a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Thermal%20Analysis-8B3A2B?style=flat-square"/>
+</p>
+
+**Business &amp; Build**
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+---
 
 ## 💼 Experience
 
@@ -60,32 +84,52 @@ mission: build · serve · repay my parents in full
 
 > At OCP I diagnosed a **6.5% fuel gap** on a flash-dryer while holding a **133 T/h** yield target.
 
+---
+
+## 🏆 Highlights
+
+<table>
+  <tr>
+    <td align="center" width="33%">🥇<br/><b>Winner</b><br/><sub>ESITH Week Hackathon 2025</sub></td>
+    <td align="center" width="33%">🏅<br/><b>4th place · 5000 dh</b><br/><sub>IEEE ICCITX.0 · CITx.C 2026 · Paris 🇫🇷</sub></td>
+    <td align="center" width="33%">🎖️<br/><b>Finalist</b><br/><sub>Green Innovators' Showdown · EIB</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 📜 Certifications
 
 <p>
-  <a href="https://coursera.org/verify/specialization/TDCKEUN3JCG4"><img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-Kennesaw%20State-2E7D32?style=flat-square&logo=coursera&logoColor=white"/></a>
-  <a href="https://coursera.org/verify/professional-cert/Q9EEEYRN3MZ0"><img src="https://img.shields.io/badge/Project%20Management-Google-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
-  <a href="https://coursera.org/verify/specialization/C5916MKB06BN"><img src="https://img.shields.io/badge/Digital%20Manufacturing%20%26%20Design-Buffalo-005BBB?style=flat-square&logo=coursera&logoColor=white"/></a>
-  <a href="https://coursera.org/verify/specialization/ABA9E1GECDTH"><img src="https://img.shields.io/badge/Excel%20for%20Business-Macquarie-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Data%20Analyst%20in%20Python-DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-Google-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <a href="https://coursera.org/verify/specialization/TDCKEUN3JCG4"><img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-Kennesaw%20State-2E7D32?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/L47JXVZVNYP4"><img src="https://img.shields.io/badge/Supply%20Chain%20Excellence-Rutgers-C8102E?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+  <a href="https://coursera.org/verify/professional-cert/Q9EEEYRN3MZ0"><img src="https://img.shields.io/badge/Project%20Management-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
+<p>
+  <a href="https://coursera.org/verify/specialization/C5916MKB06BN"><img src="https://img.shields.io/badge/Digital%20Manufacturing%20%26%20Design-Buffalo-005BBB?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/53fc393b2f282b56eaf6fac584cdacfac3a08595"><img src="https://img.shields.io/badge/Data%20Analyst%20in%20Python-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/></a>
+  <a href="https://coursera.org/verify/specialization/ABA9E1GECDTH"><img src="https://img.shields.io/badge/Excel%20for%20Business-Macquarie-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>
 </p>
 
-<sub>Badges link to the official credential — click to verify.</sub>
+<sub>🔗 Every badge links to the official credential — click to verify.</sub>
+
+---
 
 ## 📌 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🔧 [Smart Maint — GMAO](https://github.com/MUAZE12/smartmaint-lcprod) | Maintenance management system (CMMS) | Next.js · Supabase |
-| 📦 [SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi) | Inventory dashboards & analytics | JS · Chart.js |
-| 🎮 [Pixel Portfolio](https://muaze12.github.io/) | Animated 3D / pixel portfolio | React · R3F |
+| 🔧 [Smart Maint — GMAO](https://github.com/MUAZE12/smartmaint-lcprod) | Maintenance management system (CMMS): equipment tracking, downtime reduction, AI voice + semantic search | Next.js · Supabase · pgvector |
+| 📦 [SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi) | Inventory system with live dashboards &amp; stock analytics | JavaScript · Chart.js |
+| 🎮 [Pixel Portfolio](https://muaze12.github.io/) | Animated 3D / pixel-art portfolio | React · R3F · Three.js |
 
-## 📊 Stats
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&count_private=true&hide_border=true&title_color=F0742B&icon_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MUAZE12&show_icons=true&count_private=true&hide_border=true&title_color=F0742B&icon_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -97,11 +141,11 @@ mission: build · serve · repay my parents in full
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUAZE12&theme=onedark&no-frame=true&column=7&margin-w=4"/>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/MUAZE12/MUAZE12/output/github-snake-dark.svg" alt="snake"/>
 </div>
+
+---
+
+<p align="center"><i>“Discipline is choosing between what you want now and what you want most.”</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EA8FE,100:F0742B&height=120&section=footer&text=%E2%80%A6and%20with%20hardship%20comes%20ease%20%E2%80%94%2094%3A6&fontSize=16&fontColor=ffffff"/>
