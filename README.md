@@ -1,104 +1,73 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Mustapha Baroudi — Industrial Engineer · Data × Supply Chain" src="./assets/header-dark.svg" width="100%">
-</picture>
+<h1 align="center">Hi 👋, I'm Mustapha Baroudi</h1>
 
 <p align="center">
-  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-muaze12.github.io-e6a23c?style=flat-square&labelColor=11161f" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=11161f" alt="LinkedIn"></a>
-  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-e05a3c?style=flat-square&logo=gmail&logoColor=white&labelColor=11161f" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=MUAZE12&label=Profile%20views&color=e6a23c&style=flat-square&labelColor=11161f" alt="views">
+  <a href="https://muaze12.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F0742B&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%C2%B7+Data+%C3%97+Business;Supply+Chain+%E2%80%A2+Industry+4.0+%E2%80%A2+BI;Turning+data+into+decisions." alt="typing" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-F0742B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MUAZE12&color=F0742B&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
 </p>
 
 ---
 
-### `whoami`
+### 🧭 About me
 
-I'm an **industrial-engineering student** working at the seam of **industry, data, and business** — the person who understands the factory floor **and** can model it **and** can ship the tool. Currently at **ESITH Casablanca** (Business & Data Management), heading to **ENSAIT, France** for a double degree in textile & industrial engineering.
+- 🎓 Industrial-engineering student — **Business & Data Management** @ ESITH (Casablanca) → **ENSAIT** (Roubaix, France) double diploma
+- 🌉 A **France ↔ Morocco bridge** with a real data toolkit, as Moroccan industry digitizes
+- 🔭 Focus: **Supply Chain · Business Intelligence · Industry 4.0**
+- 🌱 Learning: German (A2) & data engineering
+- 🏀 Off the clock: dribbling, pixel art & shipping side projects
+- 🤲 Mission: build, serve, and repay my parents in full
 
-> **What I do →** I build **AI & data systems for operations and supply chain** — from thermal and forecasting models to full-stack industrial tools that actually run in production.
+### 🛠️ Tech &amp; Tools
 
-- 🏭 Interned at **Groupe ONCF**, **OCP Group** & **AdmitEase** · 🏆 **ESITH Hackathon winner** · 4th @ CITx.c
-- 🎓 **ESITH → ENSAIT** double degree · 🌍 Arabic · English (B2) · French · +2
-- 🧠 Turning **breadth into a spike**: data science × supply-chain optimization for the textile & retail industry
-
----
-
-### 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[⚙️ Smart Maint — GMAO / CMMS](https://github.com/MUAZE12/smartmaint-lcprod)**
-
-Full-stack maintenance platform for a Moroccan edible-oil plant. Real-time sync across **27 Postgres tables**, offline **French/Arabic voice dictation** (in-browser Whisper), a **RAG** knowledge base, and an Arabic **RTL kiosk UI** with a Windows auto-updater. **107 user stories · 16 sprints.**
-
-`Next.js` `React` `TypeScript` `Supabase` `Whisper` `pgvector`
-
-</td>
-<td width="50%" valign="top">
-
-**[📦 SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi)**
-
-Inventory-management app for Moroccan SMBs with real-time tracking, interactive **demand forecasting**, and a modern glassmorphism UI.
-
-`JavaScript` `Bootstrap 5` `Chart.js`
-
-<br>
-
-**[🌐 Portfolio & Certificates](https://github.com/MUAZE12/mustapha-baroudi-portfolio)**
-
-CV (EN/FR), 60+ certificates, and my full professional profile — plus the [live site](https://muaze12.github.io/).
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Stack
-
-**Data & Analytics**
-&nbsp;![Python](https://img.shields.io/badge/-Python-e6a23c?style=flat-square&logo=python&logoColor=11161f&labelColor=1b2230)
-![SQL](https://img.shields.io/badge/-SQL-9aa6b8?style=flat-square&logo=postgresql&logoColor=white&labelColor=1b2230)
-![pandas](https://img.shields.io/badge/-pandas-9aa6b8?style=flat-square&logo=pandas&logoColor=white&labelColor=1b2230)
-![Power BI](https://img.shields.io/badge/-Power_BI-9aa6b8?style=flat-square&logo=powerbi&logoColor=white&labelColor=1b2230)
-![R](https://img.shields.io/badge/-R-9aa6b8?style=flat-square&logo=r&logoColor=white&labelColor=1b2230)
-![Excel](https://img.shields.io/badge/-Excel_/_VBA-9aa6b8?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1b2230)
-
-**Engineering & Dev**
-&nbsp;![Next.js](https://img.shields.io/badge/-Next.js-e6a23c?style=flat-square&logo=nextdotjs&logoColor=11161f&labelColor=1b2230)
-![React](https://img.shields.io/badge/-React-9aa6b8?style=flat-square&logo=react&logoColor=white&labelColor=1b2230)
-![TypeScript](https://img.shields.io/badge/-TypeScript-9aa6b8?style=flat-square&logo=typescript&logoColor=white&labelColor=1b2230)
-![Supabase](https://img.shields.io/badge/-Supabase-9aa6b8?style=flat-square&logo=supabase&logoColor=white&labelColor=1b2230)
-![Arduino](https://img.shields.io/badge/-Arduino-9aa6b8?style=flat-square&logo=arduino&logoColor=white&labelColor=1b2230)
-
-**Industrial & Business**
-&nbsp;![Six Sigma](https://img.shields.io/badge/-Six_Sigma_Green_Belt-e6a23c?style=flat-square&logoColor=11161f&labelColor=1b2230)
-![SAP](https://img.shields.io/badge/-SAP_ERP_/_MM-9aa6b8?style=flat-square&logo=sap&logoColor=white&labelColor=1b2230)
-![Odoo](https://img.shields.io/badge/-Odoo-9aa6b8?style=flat-square&logo=odoo&logoColor=white&labelColor=1b2230)
-![Supply Chain](https://img.shields.io/badge/-Supply_Chain-9aa6b8?style=flat-square&labelColor=1b2230)
-![Lean](https://img.shields.io/badge/-Lean_/_DMAIC-9aa6b8?style=flat-square&labelColor=1b2230)
-
----
-
-### 📊 By the numbers
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&hide_border=true&count_private=true&title_color=e6a23c&icon_color=e6a23c&text_color=808da0&bg_color=00000000" alt="stats">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=e6a23c&text_color=808da0&bg_color=00000000&langs_count=8" alt="top langs">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Six%20Sigma-Green%20Belt-2E7D32?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Lean%20%2F%20DMAIC-C67A2E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
----
+### 🏆 Highlights
 
-### 🌱 Currently
+- 🥇 **Winner** — ESITH Week Hackathon 2025 (built the ESITH Factory prototype)
+- 🏅 **4th place · 5000 dh** — IEEE ICCITX.0 · CITx.C 2026 Innovation Competition (Paris 🇫🇷)
+- 🎖️ **Finalist** — Green Innovators' Showdown (European Investment Bank)
+- 📜 **60+ certifications** — Six Sigma Green Belt · Google · DataCamp · Digital Manufacturing &amp; Design
 
-Going deep instead of wide — **machine learning**, **operations research / optimization**, and **data engineering**, aimed squarely at supply-chain problems. Preparing for **ENSAIT** and hunting the flagship internship.
+### 📌 Featured projects
 
-<p align="center">
-  <em>“Bridging the gap between data and business.”</em>
-  <br><br>
-  <a href="https://muaze12.github.io/"><b>→ See the full portfolio</b></a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| 🔧 [Smart Maint — GMAO](https://github.com/MUAZE12/smartmaint-lcprod) | Maintenance management system (CMMS) | Next.js · Supabase |
+| 📦 [SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi) | Inventory dashboards & analytics | JS · Chart.js |
+| 🎮 [Pixel Portfolio](https://muaze12.github.io/) | Animated 3D/pixel portfolio | React · R3F |
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&count_private=true&hide_border=true&title_color=F0742B&icon_color=F0742B&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=F0742B&text_color=c9d1d9&bg_color=0D1117" alt="langs"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MUAZE12&hide_border=true&background=0D1117&ring=F0742B&fire=F0742B&currStreakLabel=F0742B&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9f9f9f" alt="streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUAZE12&theme=onedark&no-frame=true&column=7&margin-w=4" alt="trophies"/>
+</div>
+
+<p align="center"><i>"…and with hardship comes ease." — Qur'an 94:6</i></p>
