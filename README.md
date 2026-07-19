@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustapha Baroudi</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F0742B,100:6EA8FE&height=200&section=header&text=Mustapha%20Baroudi&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Industrial%20Engineer%20%C2%B7%20Data%20%C3%97%20Business&descSize=18&descAlignY=70" alt="header"/>
 
 <p align="center">
   <a href="https://muaze12.github.io/">
@@ -7,24 +7,26 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-F0742B?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MUAZE12&color=F0742B&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+  <a href="https://www.linkedin.com/in/baroudi-mustapha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://muaze12.github.io/"><img src="https://img.shields.io/badge/Portfolio-F0742B?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+  <a href="mailto:mustaphagamer111@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MUAZE12&color=F0742B&style=for-the-badge&label=VIEWS"/>
 </p>
 
----
+## 🧭 About
 
-### 🧭 About me
+```yaml
+name: Mustapha Baroudi
+role: Industrial Engineering Student — Business & Data Management
+school: ESITH (Casablanca)  →  ENSAIT (Roubaix, France) [double diploma]
+focus: [ Supply Chain, Business Intelligence, Industry 4.0 ]
+edge: France ↔ Morocco bridge with a real data toolkit
+learning: [ German A2, Data Engineering ]
+off_the_clock: [ basketball, pixel art, shipping side projects ]
+mission: build · serve · repay my parents in full
+```
 
-- 🎓 Industrial-engineering student — **Business & Data Management** @ ESITH (Casablanca) → **ENSAIT** (Roubaix, France) double diploma
-- 🌉 A **France ↔ Morocco bridge** with a real data toolkit, as Moroccan industry digitizes
-- 🔭 Focus: **Supply Chain · Business Intelligence · Industry 4.0**
-- 🌱 Learning: German (A2) & data engineering
-- 🏀 Off the clock: dribbling, pixel art & shipping side projects
-- 🤲 Mission: build, serve, and repay my parents in full
-
-### 🛠️ Tech &amp; Tools
+## 🛠️ Tech &amp; Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -40,34 +42,42 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-### 🏆 Highlights
+## 🏆 Highlights
 
-- 🥇 **Winner** — ESITH Week Hackathon 2025 (built the ESITH Factory prototype)
+- 🥇 **Winner** — ESITH Week Hackathon 2025 (ESITH Factory prototype)
 - 🏅 **4th place · 5000 dh** — IEEE ICCITX.0 · CITx.C 2026 Innovation Competition (Paris 🇫🇷)
 - 🎖️ **Finalist** — Green Innovators' Showdown (European Investment Bank)
 - 📜 **60+ certifications** — Six Sigma Green Belt · Google · DataCamp · Digital Manufacturing &amp; Design
 
-### 📌 Featured projects
+## 📌 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | 🔧 [Smart Maint — GMAO](https://github.com/MUAZE12/smartmaint-lcprod) | Maintenance management system (CMMS) | Next.js · Supabase |
 | 📦 [SIMS — Smart Inventory](https://github.com/MUAZE12/sims-inventory-mustapha-baroudi) | Inventory dashboards & analytics | JS · Chart.js |
-| 🎮 [Pixel Portfolio](https://muaze12.github.io/) | Animated 3D/pixel portfolio | React · R3F |
+| 🎮 [Pixel Portfolio](https://muaze12.github.io/) | Animated 3D / pixel portfolio | React · R3F |
 
-### 📊 GitHub stats
+## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&count_private=true&hide_border=true&title_color=F0742B&icon_color=F0742B&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=F0742B&text_color=c9d1d9&bg_color=0D1117" alt="langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUAZE12&show_icons=true&count_private=true&hide_border=true&title_color=F0742B&icon_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUAZE12&layout=compact&hide_border=true&title_color=F0742B&text_color=c9d1d9&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MUAZE12&hide_border=true&background=0D1117&ring=F0742B&fire=F0742B&currStreakLabel=F0742B&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9f9f9f" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=MUAZE12&hide_border=true&background=0D1117&ring=F0742B&fire=F0742B&currStreakLabel=F0742B&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9f9f9f"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUAZE12&theme=onedark&no-frame=true&column=7&margin-w=4" alt="trophies"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUAZE12&bg_color=0D1117&color=F0742B&line=F0742B&point=ffffff&area=true&hide_border=true"/>
 </div>
 
-<p align="center"><i>"…and with hardship comes ease." — Qur'an 94:6</i></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUAZE12&theme=onedark&no-frame=true&column=7&margin-w=4"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MUAZE12/MUAZE12/output/github-snake-dark.svg" alt="snake"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EA8FE,100:F0742B&height=120&section=footer&text=%E2%80%A6and%20with%20hardship%20comes%20ease%20%E2%80%94%2094%3A6&fontSize=16&fontColor=ffffff"/>
