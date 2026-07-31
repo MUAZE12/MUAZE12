@@ -48,6 +48,8 @@ mission: build · serve · repay my parents in full
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Big%20Data-654FF0?style=flat-square&logo=apachespark&logoColor=white"/>
 </p>
 
 **Industrial &amp; Supply Chain**
@@ -57,7 +59,20 @@ mission: build · serve · repay my parents in full
   <img src="https://img.shields.io/badge/Six%20Sigma-Green%20Belt-2E7D32?style=flat-square"/>
   <img src="https://img.shields.io/badge/Lean%20%2F%20DMAIC-C67A2E?style=flat-square"/>
   <img src="https://img.shields.io/badge/Supply%20Chain-1f6f4a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Demand%20Forecasting-1f6f4a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Procurement%20%26%20Sourcing-1f6f4a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TPM%20%2F%20GMAO-8B3A2B?style=flat-square"/>
   <img src="https://img.shields.io/badge/Thermal%20Analysis-8B3A2B?style=flat-square"/>
+</p>
+
+**Digital &amp; Emerging**
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-D32F2F?style=flat-square&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design%20Thinking-6A4C93?style=flat-square"/>
 </p>
 
 **Business &amp; Build**
@@ -91,7 +106,7 @@ mission: build · serve · repay my parents in full
 <table>
   <tr>
     <td align="center" width="25%">🥇<br/><b>Winner</b><br/><sub>ESITH Week Hackathon 2025</sub></td>
-    <td align="center" width="25%">🤖<br/><b>Finalist</b><br/><sub>INNOVATHON · Robotics Innovators Challenge<br/>Capgemini Engineering · 2026</sub></td>
+    <td align="center" width="25%">🤖<br/><b>Finalist</b><br/><sub>INNOVATHON · Robotics Innovators Challenge<br/>Capgemini Engineering · 2026<br/><i>swarm robots for earthquake search &amp; rescue</i></sub></td>
     <td align="center" width="25%">🏅<br/><b>4th place · 5000 dh</b><br/><sub>IEEE ICCITX.0 · CITx.C 2026 · Paris 🇫🇷</sub></td>
     <td align="center" width="25%">🎖️<br/><b>Finalist</b><br/><sub>Green Innovators' Showdown · EIB</sub></td>
   </tr>
