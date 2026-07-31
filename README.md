@@ -90,9 +90,10 @@ mission: build · serve · repay my parents in full
 
 <table>
   <tr>
-    <td align="center" width="33%">🥇<br/><b>Winner</b><br/><sub>ESITH Week Hackathon 2025</sub></td>
-    <td align="center" width="33%">🏅<br/><b>4th place · 5000 dh</b><br/><sub>IEEE ICCITX.0 · CITx.C 2026 · Paris 🇫🇷</sub></td>
-    <td align="center" width="33%">🎖️<br/><b>Finalist</b><br/><sub>Green Innovators' Showdown · EIB</sub></td>
+    <td align="center" width="25%">🥇<br/><b>Winner</b><br/><sub>ESITH Week Hackathon 2025</sub></td>
+    <td align="center" width="25%">🤖<br/><b>Finalist</b><br/><sub>INNOVATHON · Robotics Innovators Challenge<br/>Capgemini Engineering · 2026</sub></td>
+    <td align="center" width="25%">🏅<br/><b>4th place · 5000 dh</b><br/><sub>IEEE ICCITX.0 · CITx.C 2026 · Paris 🇫🇷</sub></td>
+    <td align="center" width="25%">🎖️<br/><b>Finalist</b><br/><sub>Green Innovators' Showdown · EIB</sub></td>
   </tr>
 </table>
 
